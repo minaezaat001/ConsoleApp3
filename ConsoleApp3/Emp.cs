@@ -1,6 +1,6 @@
 public Static Class EMP
 {
-    int x ; 
-     int  y; 
-     string  mina;
+   int num; 
+   int id; 
+   string name; 
 }
