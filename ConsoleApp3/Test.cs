@@ -6,6 +6,6 @@ namespace ConsoleApp3
 {
     internal class Test
     {
-        public int fa { get; set; }
+    
     }
 }
