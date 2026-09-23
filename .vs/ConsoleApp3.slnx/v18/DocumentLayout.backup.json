@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\minae\\OneDrive\\Desktop\\.net\\ConsoleApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395022A1-A0B6-49DE-8017-0F26ECD6ED40}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\minae\\onedrive\\desktop\\.net\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395022A1-A0B6-49DE-8017-0F26ECD6ED40}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\minae\\onedrive\\desktop\\.net\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6329CA87-9671-25ED-4A09-4EEA9EF96758}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
               "ToolTip": "C:\\Users\\minae\\OneDrive\\Desktop\\.net\\ConsoleApp3\\ConsoleApp3\\Program.cs",
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T19:38:06.361Z",
               "EditorCaption": ""
